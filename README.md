@@ -19,3 +19,5 @@
 ### 8: Interactive Drawing Tool with Tkinter
 
 ### 9: Pillow Library to convert the image to ICO
+
+### 10: Animation, Visualization, and Plotting with Python
