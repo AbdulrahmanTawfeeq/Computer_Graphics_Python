@@ -11,3 +11,5 @@
 ### 4: Diagonal of 4x4 Matrix and Swapping Columns
 
 ### 5: 3D Animation with VPython: Earth, Ring, and Moving Boxes
+
+### 6: Image Processing Application with GUI Interface
