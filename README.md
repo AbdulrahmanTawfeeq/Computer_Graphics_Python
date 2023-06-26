@@ -13,3 +13,5 @@
 ### 5: 3D Animation with VPython: Earth, Ring, and Moving Boxes
 
 ### 6: Image Processing Application with GUI Interface
+
+### 7: Image Manipulation and Visualization with OpenCV and Matplotlib
